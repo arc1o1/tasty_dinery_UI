@@ -1,0 +1,4 @@
+#Sat Mar 09 11:46:30 AST 2024
+base.0=/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

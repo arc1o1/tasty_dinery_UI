@@ -1,0 +1,30 @@
+# ninja log v5
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/libflutter_linux_gtk.so	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_value.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/fl_view.h	8d286742d500e932
+1	45232	0	/home/techsphere/Documents/fourth year/fyp/project/udsm_food_point/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8d286742d500e932
+1	45232	0	flutter/_phony_	8d286742d500e932
+45240	51040	1709973923489667412	CMakeFiles/udsm_food_point.dir/flutter/generated_plugin_registrant.cc.o	d0fc0e1fa2f00fc
+45239	51053	1709973923483000745	CMakeFiles/udsm_food_point.dir/main.cc.o	46ec5f41df716b41
+45239	51055	1709973923506334077	CMakeFiles/udsm_food_point.dir/my_application.cc.o	d9624b5419125ee8
+45242	51057	1709973923519667410	plugins/url_launcher_linux/CMakeFiles/url_launcher_linux_plugin.dir/url_launcher_plugin.cc.o	a233734b812b6466
+51057	51700	1709973924183000707	plugins/url_launcher_linux/liburl_launcher_linux_plugin.so	91600870526ce10a
+51700	52243	1709973924726334011	intermediates_do_not_run/udsm_food_point	644ab29acf2ce2b8
+52243	53293	0	CMakeFiles/install.util	d7c0a71cc52d1f66
